@@ -21,7 +21,17 @@ html {
   footer {
     font-family: var(--alternative-font);
     color: var(--light-font-solid);
+    /* justify-content: space-between; */
   }
+  @media (max-width: 680px){
+    header,
+    footer{
+        flex-direction: column;
+    }
+    nav{
+        padding: 10px 0px;
+    } 
+}
   ul,
 ol {
   list-style-type: none;
