@@ -1,0 +1,12 @@
+/* FOOTER*/
+
+.footer{
+    background-color: var(--primary-900);
+    padding: var(--spacing-36);
+}
+
+
+.footer__copy{
+    margin-top: var(--spacing-36);
+    text-align: center;
+}

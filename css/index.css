@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Raleway:wght@300;400;500;600;700&display=swap");
+
+/*miscelaneas*/
+
+@import url("./misc/variable.css");
+@import url("./misc/normalize.css");
+@import url("./misc/animations.css");
+
+/*partials*/
+@import url("./partials/footer.css");
+@import url("./partials/header.css");
+
+@import url("./pages/home.css");
+
+/*componentes*/
+@import url("./components/slider.css");
+@import url("./components/card.css");
+@import url("./components/buttons.css");
+@import url("./components/form.css");
+/* pages*/
+/*shop*/
+@import url("./pages/home.css");
+@import url("./pages/catalogo.css");
+/* @import url("./pages/item.css"); */
+@import url("./pages/contacto.css"); 
+
+
+
+
